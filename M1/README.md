@@ -15,7 +15,7 @@ Transmutation d'un objet en livre
 		·un banc public
 		·The Holy mountain
 		·une crêpe/exoplanète
-		·
+		·...
 	Radicalisez votre approche 
 	Développez vos idées 
 	Transformez cet objet
