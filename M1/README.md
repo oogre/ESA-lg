@@ -48,9 +48,15 @@ cet objet.
 **Force : 1/4**
 
 ` votre production possède une force évocatrice de votre point de vue ?`
+
 **Endurance : 1/4**
+
 `votre production est soignée, elle pourra traverser les années`
+
 **Agilité : 1/4**
+
 `votre production est issue d'une idée original`
+
 **Loyauté : 1/4**
+
 `vous êtes engager dans la production de votre travail et participez au groupe en apportant soutient, motivation`
