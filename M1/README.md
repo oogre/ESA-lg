@@ -1,12 +1,44 @@
 # M1·CVG·ÉDITION
 
-Breifing
+#### Breifing
 
-Images Numériques<br/>Édition expérimental<br/>    Nous sommes des êtres<br/>    qui transforment leur <br/>    environnement en livre.<br/>Transmutation d'un objet en livre<br/>    l'objet choisi peut-être matériel <br/>    l'objet choisi peut-être conceptuel <br/>    l'objet choisi doit être accessible <br/>    l'objet choisi doit vous toucher <br/>    ex:<br/>        ·liste des étudiants de l'ESA.liège<br/>        ·un litre d'essence<br/>        ·un banc public<br/>        ·The Holy mountain<br/>        ·une crêpe/exoplanète<br/>        ·...<br/>    Radicalisez votre approche <br/>    Développez vos idées <br/>    Transformez cet objet<br/>    Usez de métaphore<br/>    Metamorphose<br/>    Transposez le support<br/>Le résultat final sera une <br/>tentative pour faire sentir <br/>un certain point de vue sur <br/>cet objet. <br/>
+`Images Numériques
+Édition expérimental
+    Nous sommes des êtres
+    qui transforment leur 
+    environnement en livre.
+    Transmutation d'un objet en livre
+    l'objet choisi peut-être matériel 
+    l'objet choisi peut-être conceptuel 
+    l'objet choisi doit être accessible 
+    l'objet choisi doit vous toucher 
+    ex:
+        ·liste des étudiants de l'ESA.liège
+        ·un litre d'essence
+        ·un banc public
+        ·The Holy mountain
+        ·une crêpe/exoplanète
+        ·...
+    Radicalisez votre approche 
+    Développez vos idées 
+    Transformez cet objet
+    Usez de métaphore
+    Metamorphose
+    Transposez le support
+    Le résultat final sera une 
+tentative pour faire sentir 
+un certain point de vue sur 
+cet objet. `
 
 #### Calendrier de production
 
-définition des axes de recherche<br/>recherche et production<br/>production finission<br/>rendu<br/>
+1. définition des axes de recherche
+
+2. recherche et production
+
+3. production finission
+
+4. rendu
 
 #### Grille d'évaluation
 
@@ -19,5 +51,3 @@ définition des axes de recherche<br/>recherche et production<br/>production fin
 `votre production est issue d'une idée original`
 **Loyauté : 1/4**
 `vous êtes engager dans la production de votre travail et participez au groupe en apportant soutient, motivation`
-
-
