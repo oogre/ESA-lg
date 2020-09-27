@@ -37,6 +37,40 @@ un certain point de vue sur
 cet objet.
 ```
 
+#### References
+
+[Book | P—DPA](http://p-dpa.net/medium/book/)
+
+[Jan V. White](http://www.janvwhite.org/)
+
+[The Frederick Hammersley Foundation - Computer Drawings](http://www.hammersleyfoundation.org/index.php/artwork/computer-drawings)
+
+[https://unbindingthebook.com/](unbinding the book)
+
+[Volumique | Child of Eden](https://volumique.com/v2/portfolio/child-of-eden/)
+
+[Volumique | Duckette](https://volumique.com/v2/portfolio/duckette/)
+
+[Wellograph sur Vimeo](https://vimeo.com/306559679)
+
+[Works — Process — Studio for Art and Design](https://process.studio/works/)
+
+https://www.cementimental.com/noisebook/index.html
+
+[Cory Arcangel](https://novel.coryarcangel.com/)
+
+[Noise is full of words | void](https://www.collectivevoid.com/noise-is-full-of-words)
+
+[Manfred Mohr](http://www.emohr.com/ww4_out.html)
+
+[Forgot Your Password? &#8211; Aram Bartholl](https://arambartholl.com/forgot-your-password/)
+
+[Graphic Arrays &#8211; Aram Bartholl](https://arambartholl.com/graphic-arrays/)
+
+[Point Of View &#8211; Aram Bartholl](https://arambartholl.com/point-of-view/)
+
+
+
 #### Calendrier de production
 
 1. définition des axes de recherche
@@ -64,3 +98,5 @@ cet objet.
 **Loyauté : 1/4**
 
 `vous êtes engager dans la production de votre travail et participez au groupe en apportant soutient, motivation`
+
+
