@@ -1,3 +1,6 @@
 [submodule "M1/how-to-draw-an-exoplpanet"]
 	path = M1/how-to-draw-an-exoplpanet
 	url = https://github.com/oogre/how-to-draw-an-exoplpanet.git
+[submodule "M1/déclamationPublique"]
+	path = M1/déclamationPublique
+	url = https://github.com/oogre/declamation_publique.git
