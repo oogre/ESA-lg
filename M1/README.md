@@ -9,11 +9,13 @@
  Nous sommes des êtres
  qui transforment leur 
 environnement en livre.
+
  Transmutation d'un objet en livre
  l'objet choisi peut-être matériel 
 l'objet choisi peut-être conceptuel 
 l'objet choisi doit être accessible 
 l'objet choisi doit vous toucher 
+
 ex:
  ·liste des étudiants de l'ESA.liège
  ·un litre d'essence
@@ -21,12 +23,14 @@ ex:
  ·The Holy mountain
  ·une crêpe/exoplanète
  ·...
+
  Radicalisez votre approche 
 Développez vos idées 
 Transformez cet objet
  Usez de métaphore
  Metamorphose
  Transposez le support
+
  Le résultat final sera une 
 tentative pour faire sentir 
 un certain point de vue sur 
