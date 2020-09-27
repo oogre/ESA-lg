@@ -4,3 +4,6 @@
 [submodule "M1/déclamationPublique"]
 	path = M1/déclamationPublique
 	url = https://github.com/oogre/declamation_publique.git
+[submodule "Tutoriels"]
+	path = Tutoriels
+	url = https://github.com/oogre/Tutoriels.git
