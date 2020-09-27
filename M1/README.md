@@ -45,7 +45,7 @@ cet objet.
 
 [The Frederick Hammersley Foundation - Computer Drawings](http://www.hammersleyfoundation.org/index.php/artwork/computer-drawings)
 
-[https://unbindingthebook.com/](unbinding the book)
+[unbinding the book](https://unbindingthebook.com/)
 
 [Volumique | Child of Eden](https://volumique.com/v2/portfolio/child-of-eden/)
 
@@ -55,7 +55,9 @@ cet objet.
 
 [Works — Process — Studio for Art and Design](https://process.studio/works/)
 
-https://www.cementimental.com/noisebook/index.html
+[Cementimental](https://www.cementimental.com/noisebook/index.html)
+
+
 
 [Cory Arcangel](https://novel.coryarcangel.com/)
 
